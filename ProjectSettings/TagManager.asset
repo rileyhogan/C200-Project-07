@@ -6,16 +6,17 @@ TagManager:
   tags:
   - CinemachineTarget
   - Button
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Invisible
   - Water
   - UI
   - 
-  - 
-  - 
+  - Enemy
+  - Bullet
   - 
   - 
   - 
