@@ -21,6 +21,8 @@ Struggles or surprises you encountered during the development of the game:
 
 - Transform data seemed inconsistent between the "Button" object and other positions, but I found out after a quick search that this was just because the pivot was not set to Center.
 
+- When importing the animations for my player character, I ran into a bug that I was unable to solve, which really just derailed my entire project. I spent hours trying to make the animations work, and eventually I got so deep into it that reverting to the default character controller animations became unfeasible too. My frustration really only compounded from this point onward, and to be quite honest after spending a whole day on this issue, I just could not deal with this project anymore. I apologize for turning this project in half finished, but I'm really just not happy with how it's going and can't find a way to make it work.
+
 ## Implementation
 Features
 Assets, or resources used
@@ -31,8 +33,12 @@ Assets, or resources used
 
 - "Particle Accelerator Pistol" (https://skfb.ly/HvGP) by Comrade1280 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+- Textures from FreePBR.com
+
 ## Special Focus
 What is your special focus? What did you do for it? How would you rate your own effort? 1-5. (I will agree or disagree with this sentiment, but I want to know what you thought)
+
+Since I didn't quite finish the game, I'm not eager to pretend to have a deeper focus. Though I put a lot of effort into trying to make these animations work, I'm hesitant to claim a high level of effort, because I couldn't pull it off. It's hard for me to put a number on it, but I'll give it a 2 because it gave me such a headache.
 
 ## References
 
